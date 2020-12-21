@@ -1,5 +1,9 @@
 {
   "redirects": [
-    { "source": "/*", "destination": "https://www.selectabase.co.uk/services/subscriptions/newb2b/", "permanent": false },
+    {
+      "source": "/*",
+      "destination": "https://www.selectabase.co.uk/services/subscriptions/newb2b/",
+      "permanent": false
+    }
   ]
-} 
+}
